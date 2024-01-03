@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/image-gallery-react-tailwind/static/css/main.fc11356b.css",
+    "main.js": "/image-gallery-react-tailwind/static/js/main.9802fc44.js",
+    "static/js/787.959acc52.chunk.js": "/image-gallery-react-tailwind/static/js/787.959acc52.chunk.js",
+    "static/media/image6.jpg": "/image-gallery-react-tailwind/static/media/image6.7e13228bcb4ddd2e01f3.jpg",
+    "static/media/image5.jpg": "/image-gallery-react-tailwind/static/media/image5.a727675b434781049a27.jpg",
+    "static/media/image4.jpg": "/image-gallery-react-tailwind/static/media/image4.5760703cde677349bb5d.jpg",
+    "static/media/image1.jpg": "/image-gallery-react-tailwind/static/media/image1.a4056ed6c144fe7c86c9.jpg",
+    "static/media/image2.jpg": "/image-gallery-react-tailwind/static/media/image2.1a89ea740835dd689b92.jpg",
+    "static/media/image3.jpg": "/image-gallery-react-tailwind/static/media/image3.9f70358e0b75ebfffbea.jpg",
+    "index.html": "/image-gallery-react-tailwind/index.html",
+    "static/media/bookmark.svg": "/image-gallery-react-tailwind/static/media/bookmark.b19823687180632ed456fc28ebbe5f3c.svg",
+    "main.fc11356b.css.map": "/image-gallery-react-tailwind/static/css/main.fc11356b.css.map",
+    "main.9802fc44.js.map": "/image-gallery-react-tailwind/static/js/main.9802fc44.js.map",
+    "787.959acc52.chunk.js.map": "/image-gallery-react-tailwind/static/js/787.959acc52.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc11356b.css",
+    "static/js/main.9802fc44.js"
+  ]
+}
