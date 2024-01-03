@@ -2,7 +2,7 @@
 
 ## Description
 
-In the project directory, you can run:
+This is one of the mini projects from the tailwind CSS learning course.
 
 ### Desktop
 
